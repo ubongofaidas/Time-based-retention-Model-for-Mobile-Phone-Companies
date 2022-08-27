@@ -1,0 +1,101 @@
+CID,Phone,Gender,CostOfBundles,BetterOfferAgainstOther,CoverageArea,ShareDisappointWith,SatisficationLevel,Age,NoSimCard,NoCalls,CallsCharges,NoSms,SmsCharges,TotalCharges,TimeInServices,Category
+1,623172211,Female,high,agree,strong,company,satisfied,27,1,25,7000,2500,7000,16500,70,Profitable customer
+2,625615024,Male,low,disagree,weak,friends,unsatisfied,41,2,10,3500,100,3500,7100,27,Non profitable customer
+3,628057837,Male,low,disagree,weak,friends,unsatisfied,22,3,5,2000,50,2000,4050,20,Non profitable customer
+4,630500650,Male,high,agree,strong,company,satisfied,22,1,15,10000,1500,10000,21500,100,Profitable customer
+5,632943463,Female,high,agree,strong,company,satisfied,42,1,19,5000,1900,5000,11900,5,Profitable customer
+6,635386276,Female,high,agree,strong,company,satisfied,48,1,67,6000,67000,6000,79000,69,Profitable customer
+7,637829089,Male,low,disagree,weak,friends,unsatisfied,47,2,2,4500,200,4500,9200,40,Non profitable customer
+8,640271902,Female,low,disagree,weak,friends,unsatisfied,21,2,0,4000,0,4000,8000,26,Non profitable customer
+9,642714715,Female,low,disagree,weak,friends,unsatisfied,25,2,5,1500,500,1500,3500,93,Non profitable customer
+10,645157528,Female,low,disagree,weak,friends,unsatisfied,34,2,3,1500,333,1500,3333,34,Non profitable customer
+11,647600341,Male,high,agree,strong,company,satisfied,24,1,20,7000,4320,7000,18320,54,Profitable customer
+12,650043154,Male,high,agree,strong,company,satisfied,23,1,30,9000,5430,9000,23430,45,Profitable customer
+13,652485967,Male,high,agree,strong,company,satisfied,21,1,27,8000,4427,8000,20427,5,Profitable customer
+14,654928780,Female,low,disagree,weak,friends,unsatisfied,45,2,7,1500,777,1500,3777,12,Non profitable customer
+15,657371593,Female,low,disagree,weak,friends,unsatisfied,43,2,6,3000,676,3000,6676,5,Non profitable customer
+16,659814406,Male,low,disagree,weak,friends,unsatisfied,53,2,9,4000,679,4000,8679,22,Non profitable customer
+17,662257219,Male,low,disagree,weak,friends,unsatisfied,34,2,2,3500,652,3500,7652,21,Non profitable customer
+18,664700032,Male,high,agree,strong,company,satisfied,22,1,50,6000,5650,6000,17650,16,Profitable customer
+19,667142845,Female,high,agree,strong,company,satisfied,21,1,40,8000,5640,8000,21640,16,Profitable customer
+20,669585658,Female,high,agree,strong,company,satisfied,23,1,33,11000,6533,11000,28533,11,Profitable customer
+21,672028471,Female,low,disagree,weak,friends,unsatisfied,56,2,1,2500,551,2500,5551,26,Non profitable customer
+22,674471284,Male,low,disagree,weak,friends,unsatisfied,76,2,0,4500,0,4500,9000,9,Non profitable customer
+23,676914097,Male,high,agree,strong,friends,unsatisfied,35,1,68,6700,568,6700,13968,21,Profitable customer
+24,679356910,Male,low,disagree,weak,friends,unsatisfied,27,2,15,4300,115,4300,8715,16,Non profitable customer
+25,681799723,Female,low,disagree,weak,friends,unsatisfied,21,2,14,1000,214,1000,2214,15,Non profitable customer
+26,684242536,Female,low,disagree,weak,friends,unsatisfied,22,2,23,2000,423,2000,4423,10,Non profitable customer
+27,686685349,Female,low,disagree,weak,friends,unsatisfied,22,2,10,3000,310,3000,6310,28,Non profitable customer
+28,689128162,Female,low,disagree,weak,friends,unsatisfied,42,2,2,4500,42,4500,9042,27,Non profitable customer
+29,691570975,Male,low,disagree,weak,friends,unsatisfied,48,2,2,7000,52,7000,14052,23,Profitable customer
+30,694013788,Male,low,disagree,weak,friends,unsatisfied,47,2,11,8500,511,8500,17511,11,Profitable customer
+31,696456601,Female,low,dis agree,weak,friends,unsatisfied,21,2,11,10000,611,10000,20611,28,Profitable customer
+32,698899414,Male,low,disagree,weak,friends,unsatisfied,25,2,11,8000,511,8000,16511,15,Profitable customer
+33,701342227,Male,low,disagree,weak,friends,unsatisfied,34,2,11,4000,511,4000,8511,21,Non profitable customer
+34,703785040,Male,low,disagree,weak,friends,unsatisfied,24,2,11,2500,511,2500,5511,13,Non profitable customer
+35,706227853,Female,low,disagree,weak,friends,unsatisfied,23,2,11,20000,411,20000,40411,22,Profitable customer
+36,708670666,Female,low,disagree,weak,friends,unsatisfied,21,2,10,16000,610,16000,32610,9,Profitable customer
+37,711113479,Male,low,disagree,weak,friends,unsatisfied,45,2,11,8000,711,8000,16711,27,Profitable customer
+38,713556292,Female,low,disagree,weak,friends,unsatisfied,43,2,11,7000,611,7000,14611,13,Profitable customer
+39,715999105,Female,low,disagree,weak,friends,unsatisfied,53,2,11,2100,611,2100,4811,12,Non profitable customer
+40,718441918,Female,low,disagree,weak,friends,unsatisfied,59,2,11,2500,711,2500,5711,11,Non profitable customer
+41,720884731,Male,low,disagree,weak,friends,unsatisfied,22,2,11,3000,511,3000,6511,14,Non profitable customer
+42,723327544,Male,low,disagree,weak,friends,unsatisfied,21,2,11,3500,211,3500,7211,5,Non profitable customer
+43,725770357,Male,low,disagree,weak,friends,unsatisfied,23,2,11,6000,111,6000,12111,16,Profitable customer
+44,728213170,Female,low,disagree,weak,friends,unsatisfied,56,2,11,2500,211,2500,5211,28,Non profitable customer
+45,730655983,Female,low,disagree,weak,friends,unsatisfied,76,2,11,1000,111,1000,2111,5,Non profitable customer
+46,733098796,Male,low,disagree,weak,friends,unsatisfied,35,2,11,2000,311,2000,4311,1,Non profitable customer
+47,735541609,Male,low,disagree,weak,friends,unsatisfied,27,2,11,3400,311,3400,7111,18,Non profitable customer
+48,737984422,Male,low,disagree,weak,friends,unsatisfied,21,2,11,700,411,700,1811,28,Non profitable customer
+49,740427235,Female,low,disagree,weak,friends,unsatisfied,22,2,11,10000,611,10000,20611,40,Profitable customer
+50,742870048,Female,low,disagree,weak,friends,unsatisfied,22,2,11,10000,511,10000,20511,50,Profitable customer
+51,745312861,Female,low,disagree,weak,friends,unsatisfied,42,2,11,6500,511,6500,13511,25,Profitable customer
+52,747755674,Male,low,disagree,weak,friends,unsatisfied,48,2,11,7000,511,7000,14511,25,Profitable customer
+53,750198487,Male,low,disagree,weak,friends,unsatisfied,47,2,11,5000,411,5000,10411,14,Profitable customer
+54,752641300,Male,low,disagree,weak,friends,unsatisfied,21,2,11,5000,511,5000,10511,16,Profitable customer
+55,755084113,Female,low,disagree,weak,friends,unsatisfied,25,2,11,12000,511,12000,24511,21,Profitable customer
+56,757526926,Female,low,disagree,weak,friends,unsatisfied,34,2,11,2000,611,2000,4611,28,Non profitable customer
+57,759969739,Female,low,disagree,weak,friends,unsatisfied,24,2,11,4000,611,4000,8611,4,Non profitable customer
+58,762412552,Female,low,disagree,weak,friends,unsatisfied,23,2,11,7500,611,7500,15611,16,Profitable customer
+59,764855365,Male,low,disagree,weak,friends,unsatisfied,21,2,21,2500,521,2500,5521,25,Non profitable customer
+60,767298178,Male,low,disagree,weak,friends,unsatisfied,45,2,11,2500,511,2500,5511,5,Non profitable customer
+61,769740991,Male,low,disagree,weak,friends,unsatisfied,43,2,11,5000,711,5000,10711,22,Profitable customer
+62,772183804,Male,low,disagree,weak,friends,unsatisfied,53,2,11,8500,511,8500,17511,21,Profitable customer
+63,774626617,Female,low,disagree,weak,friends,unsatisfied,63,2,11,20000,511,20000,40511,28,Profitable customer
+64,777069430,Female,low,disagree,weak,friends,unsatisfied,22,2,11,15000,411,15000,30411,28,Profitable customer
+65,779512243,Male,low,disagree,weak,friends,unsatisfied,21,2,11,12000,411,12000,24411,7,Profitable customer
+66,781955056,Male,low,disagree,weak,friends,unsatisfied,23,2,31,6500,431,6500,13431,16,Profitable customer
+67,784397869,Male,low,disagree,weak,friends,unsatisfied,56,2,11,7300,411,7300,15011,14,Profitable customer
+68,786840682,Female,low,disagree,weak,friends,unsatisfied,76,2,11,2900,311,2900,6111,28,Non profitable customer
+69,789283495,Female,low,disagree,weak,friends,unsatisfied,35,2,11,1000,311,1000,2311,28,Non profitable customer
+70,791726308,Female,low,disagree,weak,friends,unsatisfied,27,2,11,500,311,500,1311,28,Non profitable customer
+71,794169121,Male,low,disagree,weak,friends,unsatisfied,21,2,11,500,111,500,1111,3,Non profitable customer
+72,796611934,Male,low,disagree,weak,friends,unsatisfied,22,2,11,1000,811,1000,2811,28,Non profitable customer
+73,799054747,Male,low,disagree,weak,friends,unsatisfied,22,2,11,3000,1911,3000,7911,24,Non profitable customer
+74,801497560,Female,low,disagree,weak,friends,unsatisfied,42,2,11,3200,811,3200,7211,20,Non profitable customer
+75,803940373,Female,low,disagree,weak,friends,unsatisfied,48,2,11,6000,711,6000,12711,15,Non profitable customer
+76,806383186,Female,low,disagree,weak,friends,unsatisfied,47,2,11,4000,611,4000,8611,18,Non profitable customer
+77,808825999,Female,low,disagree,weak,friends,unsatisfied,21,2,11,2500,411,2500,5411,26,Non profitable customer
+78,811268812,Male,low,disagree,weak,friends,unsatisfied,25,2,11,4500,311,4500,9311,27,Non profitable customer
+79,813711625,Male,low,disagree,weak,friends,unsatisfied,34,2,11,5000,411,5000,10411,24,Profitable customer
+80,816154438,Female,high,agree,strong,company,satisfied,24,1,67,9000,7867,9000,25867,19,Profitable customer
+81,818597251,Male,high,agree,strong,company,satisfied,23,1,78,9000,8978,9000,26978,26,Profitable customer
+82,821040064,Male,low,disagree,weak,friends,unsatisfied,21,2,1,4500,111,4500,9111,21,Non profitable customer
+83,823482877,Male,high,agree,strong,company,satisfied,45,1,100,6700,2100,6700,15500,28,Profitable customer
+84,825925690,Female,low,disagree,weak,friends,unsatisfied,43,2,21,1500,21,1500,3021,1,Non profitable customer
+85,828368503,Female,high,agree,strong,company,satisfied,53,1,45,6200,5545,6200,17945,5,Profitable customer
+86,830811316,Male,high,agree,strong,company,satisfied,23,1,66,12000,5566,12000,29566,9,Profitable customer
+87,833254129,Female,high,agree,strong,company,satisfied,22,1,200,11000,6200,11000,28200,16,Profitable customer
+88,835696942,Female,high,agree,strong,company,satisfied,21,1,120,10000,1720,10000,21720,16,Profitable customer
+89,838139755,Female,high,agree,strong,company,satisfied,23,1,160,7000,7160,7000,21160,21,Profitable customer
+90,840582568,Male,low,disagree,weak,friends,unsatisfied,56,2,23,3000,230,3000,6230,9,Non profitable customer
+91,843025381,Male,low,disagree,weak,friends,unsatisfied,76,2,2,500,200,500,1200,28,Non profitable customer
+92,845468194,Female,low,disagree,weak,friends,unsatisfied,35,2,23,1000,230,1000,2230,9,Non profitable customer
+93,847911007,Male,low,disagree,weak,friends,unsatisfied,27,2,2,3600,211,3600,7411,28,Non profitable customer
+94,850353820,Male,low,disagree,weak,friends,unsatisfied,21,2,2,4500,2000,4500,11000,10,Non profitable customer
+95,852796633,Male,low,disagree,weak,friends,unsatisfied,22,2,2,5600,222,5600,11422,19,Profitable customer
+96,855239446,Female,high,agree,strong,company,satisfied,22,1,89,6000,8900,6000,20900,14,Profitable customer
+97,857682259,Male,low,disagree,weak,company,unsatisfied,42,2,4,2700,454,2700,5854,11,Non profitable customer
+98,860125072,Female,low,disagree,weak,company,unsatisfied,48,2,3,3200,333,3200,6733,16,Non profitable customer
+99,862567885,Female,low,disagree,weak,company,unsatisfied,47,2,30,2000,30,2000,4030,60,Non profitable customer
+100,865010698,Female,low,disagree,weak,company,unsatisfied,41,2,3,2500,300,2500,5300,21,Non profitable customer
