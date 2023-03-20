@@ -39,7 +39,7 @@ pandas
 seaborn
 matplotlib
 sklearn
-sksurv
+scikit-survival
 lifelines
 xgboost
 shap
