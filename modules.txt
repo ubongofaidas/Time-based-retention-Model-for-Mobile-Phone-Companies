@@ -2,7 +2,7 @@ numpy
 pandas
 seaborn
 matplotlib
-sklearn
+scikit-learn
 sksurv
 lifelines
 xgboost
