@@ -38,7 +38,7 @@ numpy
 pandas
 seaborn
 matplotlib
-sklearn
+scikit-learn
 scikit-survival
 lifelines
 xgboost
